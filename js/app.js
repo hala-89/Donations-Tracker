@@ -103,7 +103,7 @@ function loadLocalStrage(){
     {
 
         for (let i=0 ;i<allDonators.length;i++){
-            new donatorsInfo(thi);
+            new donatorsInfo(parrArr[i].donatorName,parrArr[i].donationAmount,parrArr[i].Age);
         }
     }
 

@@ -110,3 +110,6 @@ function loadLocalStrage(){
 
 }
 loadLocalStrage();
+
+
+//////Iam cant make all things 
